@@ -1,0 +1,2093 @@
+Details  Array
+(
+    [_dc] => 1498479104457
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498479104457
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498479788246
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498479788246
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498479796678
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 3
+detailsArray
+(
+    [_dc] => 1498479796678
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 3
+Details  Array
+(
+    [_dc] => 1498479809219
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1498479809219
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1498481325752
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+detailsArray
+(
+    [_dc] => 1498481325752
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 
+Details  Array
+(
+    [_dc] => 1498481334042
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498481334042
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498481340448
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1498481340448
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1498483155997
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498483155997
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498483162893
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1498483162893
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1498556980082
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16817
+    [mode] => 0
+    [articleId] => 528
+    [articleNumber] => KL01157
+    [articleName] => Metall Wandskulptur 'Korallenriff' 98x68x6cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 34
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 34
+)
+
+detailsArray
+(
+    [_dc] => 1498556980082
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16817
+    [mode] => 0
+    [articleId] => 528
+    [articleNumber] => KL01157
+    [articleName] => Metall Wandskulptur 'Korallenriff' 98x68x6cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 34
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 34
+)
+
+Old statusId 
+Details  Array
+(
+    [_dc] => 1498557031499
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+detailsArray
+(
+    [_dc] => 1498557031499
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 
+Details  Array
+(
+    [_dc] => 1498557086996
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 3
+detailsArray
+(
+    [_dc] => 1498557086996
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 3
+Details  Array
+(
+    [_dc] => 1498557090259
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 2
+detailsArray
+(
+    [_dc] => 1498557090259
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 2
+Details  Array
+(
+    [_dc] => 1498557234419
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498557234419
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498557239041
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1498557239041
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1498557287612
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1498557287612
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1498557290419
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1498557290419
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1498665025494
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23662
+    [orderId] => 16824
+    [mode] => 0
+    [articleId] => 643
+    [articleNumber] => KL00469
+    [articleName] => Öl Gemälde 'Gläserne Welt' 180x120cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 799
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 799
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1498665025494
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23662
+    [orderId] => 16824
+    [mode] => 0
+    [articleId] => 643
+    [articleNumber] => KL00469
+    [articleName] => Öl Gemälde 'Gläserne Welt' 180x120cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 799
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 799
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499073162332
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499073162332
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499073164581
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499073164581
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499073168473
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499073168473
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499073171236
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499073171236
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499073403076
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1499073403076
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1499073407795
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1499073407795
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1499073636494
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16407
+    [mode] => 0
+    [articleId] => 65
+    [articleNumber] => KL00119
+    [articleName] => Öl Gemälde 'Verspielt und doch gefasst' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 33
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 33
+)
+
+detailsArray
+(
+    [_dc] => 1499073636494
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16407
+    [mode] => 0
+    [articleId] => 65
+    [articleNumber] => KL00119
+    [articleName] => Öl Gemälde 'Verspielt und doch gefasst' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 33
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 33
+)
+
+Old statusId 
+Details  Array
+(
+    [_dc] => 1499073665447
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16407
+    [mode] => 0
+    [articleId] => 139
+    [articleNumber] => KL00186
+    [articleName] => Geschenkgutschein 50 €
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 24
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 24
+)
+
+detailsArray
+(
+    [_dc] => 1499073665447
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 0
+    [orderId] => 16407
+    [mode] => 0
+    [articleId] => 139
+    [articleNumber] => KL00186
+    [articleName] => Geschenkgutschein 50 €
+    [quantity] => 1
+    [statusId] => 0
+    [statusDescription] => 
+    [price] => 24
+    [taxId] => 1
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 24
+)
+
+Old statusId 
+Details  Array
+(
+    [_dc] => 1499074361980
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23166
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 193
+    [articleNumber] => KL00183
+    [articleName] => Acryl Gemälde 'Farbenspiel am Horizont' 120x40cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 109
+    [taxId] => 7
+    [taxRate] => 0
+    [inStock] => -3
+    [viisonCanceledTotal] => 0
+    [total] => 109
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1499074361980
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23166
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 193
+    [articleNumber] => KL00183
+    [articleName] => Acryl Gemälde 'Farbenspiel am Horizont' 120x40cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 109
+    [taxId] => 7
+    [taxRate] => 0
+    [inStock] => -3
+    [viisonCanceledTotal] => 0
+    [total] => 109
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1499074364829
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23182
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => BKL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 21
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 21
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499074364829
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23182
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => BKL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 21
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 21
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499074779971
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23166
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 193
+    [articleNumber] => KL00183
+    [articleName] => Acryl Gemälde 'Farbenspiel am Horizont' 120x40cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 109
+    [taxId] => 7
+    [taxRate] => 0
+    [inStock] => -3
+    [viisonCanceledTotal] => 0
+    [total] => 109
+)
+
+Old statusId 1
+detailsArray
+(
+    [_dc] => 1499074779971
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23166
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 193
+    [articleNumber] => KL00183
+    [articleName] => Acryl Gemälde 'Farbenspiel am Horizont' 120x40cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 109
+    [taxId] => 7
+    [taxRate] => 0
+    [inStock] => -3
+    [viisonCanceledTotal] => 0
+    [total] => 109
+)
+
+Old statusId 1
+Details  Array
+(
+    [_dc] => 1499074782227
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23182
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => BKL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 21
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 21
+)
+
+Old statusId 41
+detailsArray
+(
+    [_dc] => 1499074782227
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23182
+    [orderId] => 16395
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => BKL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 0
+    [price] => 21
+    [taxId] => 1
+    [taxRate] => 19
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 21
+)
+
+Old statusId 41
+Details  Array
+(
+    [_dc] => 1499256893689
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23154
+    [orderId] => 16384
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => KL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 4
+    [statusDescription] => 
+    [price] => 25
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 42
+    [viisonCanceledTotal] => 0
+    [total] => 25
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499256893689
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 1
+    [isDropshipping] => 1
+    [id] => 23154
+    [orderId] => 16384
+    [mode] => 0
+    [articleId] => 7
+    [articleNumber] => KL00015
+    [articleName] => Acryl Gemälde 'Im Gedanken-Rausch' 200x100cm
+    [quantity] => 1
+    [statusId] => 4
+    [statusDescription] => 
+    [price] => 25
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 42
+    [viisonCanceledTotal] => 0
+    [total] => 25
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499257704407
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 1
+    [id] => 23149
+    [orderId] => 16384
+    [mode] => 0
+    [articleId] => 202
+    [articleNumber] => KL00170
+    [articleName] => Acryl Gemälde 'Eine Hommage ans Leben' 140x70cm
+    [quantity] => 1
+    [statusId] => 4
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499257704407
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 1
+    [id] => 23149
+    [orderId] => 16384
+    [mode] => 0
+    [articleId] => 202
+    [articleNumber] => KL00170
+    [articleName] => Acryl Gemälde 'Eine Hommage ans Leben' 140x70cm
+    [quantity] => 1
+    [statusId] => 4
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 1
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499673878580
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499673878580
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23632
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 79
+    [articleNumber] => KL00092
+    [articleName] => Acryl Gemälde 'Kirschblüten' 120x80cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 159
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 25
+    [viisonCanceledTotal] => 0
+    [total] => 159
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499673881362
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499673881362
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23639
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 8
+    [articleNumber] => BKL00003
+    [articleName] => Acryl Gemälde 'Tanz des Lebens' 200x100cm
+    [quantity] => 1
+    [statusId] => 2
+    [statusDescription] => 
+    [price] => 19
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => -1
+    [viisonCanceledTotal] => 0
+    [total] => 19
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499673884402
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499673884402
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23640
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 50
+    [articleNumber] => KL00111
+    [articleName] => Acryl Gemälde 'The Rain Outside My Window' 200x100cm
+    [quantity] => 1
+    [statusId] => 3
+    [statusDescription] => 
+    [price] => 28
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 28
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499673888026
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499673888026
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23642
+    [orderId] => 16811
+    [mode] => 0
+    [articleId] => 6
+    [articleNumber] => KL00011
+    [articleName] => Acryl Gemälde 'Lebensenergie' 200x100cm
+    [quantity] => 1
+    [statusId] => 41
+    [statusDescription] => 
+    [price] => 59
+    [taxId] => 1
+    [taxRate] => 19
+    [taxDescription] => 
+    [inStock] => 0
+    [viisonCanceledTotal] => 0
+    [total] => 59
+)
+
+Old statusId 0
+Details  Array
+(
+    [_dc] => 1499674158497
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23618
+    [orderId] => 16799
+    [mode] => 0
+    [articleId] => 835
+    [articleNumber] => KL00731
+    [articleName] => Acryl Gemälde 'Unzähmbar' 120x60cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 149
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 5
+    [viisonCanceledTotal] => 0
+    [total] => 149
+)
+
+Old statusId 0
+detailsArray
+(
+    [_dc] => 1499674158497
+    [module] => backend
+    [controller] => Order
+    [action] => savePosition
+    [shipped] => 0
+    [viisonCanceledQuantity] => 0
+    [phisicalQuantity] => 0
+    [isDropshipping] => 0
+    [id] => 23618
+    [orderId] => 16799
+    [mode] => 0
+    [articleId] => 835
+    [articleNumber] => KL00731
+    [articleName] => Acryl Gemälde 'Unzähmbar' 120x60cm
+    [quantity] => 1
+    [statusId] => 1
+    [statusDescription] => 
+    [price] => 149
+    [taxId] => 7
+    [taxRate] => 0
+    [taxDescription] => 
+    [inStock] => 5
+    [viisonCanceledTotal] => 0
+    [total] => 149
+)
+
+Old statusId 0

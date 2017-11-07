@@ -1,0 +1,1842 @@
+User : Robert 
+orderID 21375 [ 2017-07-10 11:53:52 ] Ran 
+NAME:  print_klausnerring 
+print_klausnerringFolderName for weissenfelder Not Found for orderID : 21375 
+[ 2017-07-10 11:53:54 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 11:53:54 ]:Used Printers Brother MFC-L2700DN series [30055cf0b490] 
+[ 2017-07-10 11:53:54 ]:Not Defined No printer Found 
+[ 2017-07-10 11:53:58 ]:Document has been sent to [DPD Labels (GK420d)] printer and should print shortly.print_klausnerring/Spedition-Etikett-40949-103.pdf 
+[ 2017-07-10 11:54:02 ]:Document has been sent to [Brother HL-2130 series (Normalpapier)] printer and should print shortly.print_klausnerring/Spedition-Verladeliste-40949-103.pdf 
+[ 2017-07-10 11:54:06 ]:Document has been sent to [Brother HL-3142CW series] printer and should print shortly.print_klausnerring/certificate-d727dabe8fad83f5559815f3124c569a.pdf 
+[ 2017-07-10 11:54:10 ]:Document has been sent to [Brother HL-2130 series] printer and should print shortly.print_klausnerring/invoice-1bd1f80df27ed4ea2dc4028828b8ae49.pdf 
+User : Tobias 
+orderID 21506 [ 2017-07-10 11:54:23 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592329-label.pdf 
+dpd file  : dpd-01805062592330-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21506 
+[ 2017-07-10 11:54:25 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 11:54:25 ]:Used Printers Brother HL-2130 series 
+[ 2017-07-10 11:54:25 ]:Not Defined No printer Found 
+[ 2017-07-10 11:54:28 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592329-label.pdf 
+[ 2017-07-10 11:54:31 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592330-label.pdf 
+[ 2017-07-10 11:54:35 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-cd52cdaf97ca4b8e93ae7d5d1fa23b17.pdf 
+User : Tobias 
+orderID 21507 [ 2017-07-10 12:02:48 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592332-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21507 
+[ 2017-07-10 12:02:50 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 12:02:50 ]:Used Printers Packtisch 2 Tray 1 
+[ 2017-07-10 12:02:50 ]:Not Defined No printer Found 
+[ 2017-07-10 12:02:53 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592332-label.pdf 
+[ 2017-07-10 12:02:56 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-69c10e2ebe109ae90c19a0d846e6be14.pdf 
+User : Tobias 
+orderID 21508 [ 2017-07-10 12:06:40 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592382-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21508 
+[ 2017-07-10 12:06:42 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 12:06:42 ]:Used Printers Brother MFC-L2700DN series [30055cf0b490] 
+[ 2017-07-10 12:06:42 ]:Not Defined No printer Found 
+[ 2017-07-10 12:06:45 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592382-label.pdf 
+[ 2017-07-10 12:06:48 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-a76c15a3e8f108da38c7339832abdd32.pdf 
+User : Tobias 
+orderID 21512 [ 2017-07-10 12:12:16 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592336-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21512 
+[ 2017-07-10 12:12:17 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 12:12:17 ]:Used Printers Packtisch 2 Tray 1 
+[ 2017-07-10 12:12:17 ]:Not Defined No printer Found 
+[ 2017-07-10 12:12:21 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592336-label.pdf 
+[ 2017-07-10 12:12:24 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-b76f5c7034c44c9b41590e3d76865ef1.pdf 
+User : Tobias 
+orderID 21536 [ 2017-07-10 12:18:51 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592397-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21536 
+[ 2017-07-10 12:18:52 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 12:18:52 ]:Used Printers Packtisch 2 Tray 1 
+[ 2017-07-10 12:18:52 ]:Not Defined No printer Found 
+[ 2017-07-10 12:18:55 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592397-label.pdf 
+[ 2017-07-10 12:18:58 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-f6027eb9731aae0bb7d8419e897b4c34.pdf 
+User : Tobias 
+orderID 21538 [ 2017-07-10 12:25:20 ] Ran 
+Username:  Tobias--User 
+NAME:  print_weissenfelder_2 
+dpd file  : dpd-01805062592398-label.pdf 
+print_weissenfelder_2FolderName for klausnerring Not Found for orderID : 21538 
+[ 2017-07-10 12:25:21 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 12:25:21 ]:Used Printers Packtisch 2 Tray 1 
+[ 2017-07-10 12:25:21 ]:Not Defined No printer Found 
+[ 2017-07-10 12:25:25 ]:Document has been sent to [DPD 2] printer and should print shortly.print_weissenfelder_2/dpd-01805062592398-label.pdf 
+[ 2017-07-10 12:25:28 ]:Document has been sent to [Packtisch 2 Tray 1] printer and should print shortly.print_weissenfelder_2/invoice-81ec9618511dd8a1d6a1317e08e2add6.pdf 
+User : Robert 
+orderID 21390 [ 2017-07-10 13:32:59 ] Ran 
+NAME:  print_klausnerring 
+print_klausnerringFolderName for weissenfelder Not Found for orderID : 21390 
+[ 2017-07-10 13:33:01 ]:Available Printers Array
+(
+    [0] => Array
+        (
+            [id] => f7de930b-0f3c-dc85-04ad-ebbb96fedf6a
+            [name] => Packtisch 2 Tray 1
+            [displayName] => Packtisch 2 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [1] => Array
+        (
+            [id] => a15b659b-4c36-6750-a9c2-9832fe36d102
+            [name] => DPD 2
+            [displayName] => DPD 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [2] => Array
+        (
+            [id] => eb75e0e7-047c-3e31-6041-8739aa16f403
+            [name] => Brother MFC-L2700DN series [30055cf0b490]
+            [displayName] => Brother MFC-L2700DN Office
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [3] => Array
+        (
+            [id] => 38826453-f28f-7854-c207-1798c3840e2e
+            [name] => Brother HL-2130 series
+            [displayName] => Brother HL-2130 series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [4] => Array
+        (
+            [id] => fa458512-9784-8797-8c41-1e24e0e9aca1
+            [name] => Brother HL-3142CW series
+            [displayName] => Brother HL-3142CW series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [5] => Array
+        (
+            [id] => 38fa290a-4fab-515e-4049-d06893613e0c
+            [name] => DHL 1
+            [displayName] => DHL 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [6] => Array
+        (
+            [id] => f6658ddf-44d4-0048-e58c-f813d73a1e6a
+            [name] => DPD 1
+            [displayName] => DPD 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [7] => Array
+        (
+            [id] => e647f03b-91ec-72e4-43aa-40e23c8ac3df
+            [name] => Packtisch 1 Tray 1
+            [displayName] => Packtisch 1 Tray 1
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [8] => Array
+        (
+            [id] => 02b80e14-874c-03d8-eab7-af6d2d2c30e6
+            [name] => Packtisch 1 Tray 2
+            [displayName] => Packtisch 1 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [9] => Array
+        (
+            [id] => fe47f54d-90af-ce74-62c8-0aecfc42b2c3
+            [name] => DHL 2
+            [displayName] => DHL 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [10] => Array
+        (
+            [id] => 0185f3d7-fb95-1cfa-d2c8-b2a345a72254
+            [name] => Packtisch 2 Tray 2
+            [displayName] => Packtisch 2 Tray 2
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [11] => Array
+        (
+            [id] => __google__docs
+            [name] => Save to Google Docs
+            [displayName] => In Google Drive speichern
+            [ownerName] => 
+            [connectionStatus] => ONLINE
+        )
+
+    [12] => Array
+        (
+            [id] => 72fbc76c-5766-cd01-7573-2aa68440f236
+            [name] => Brother HL-2130 series (Normalpapier)
+            [displayName] => Brother HL-2130 series (Normalpapier)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [13] => Array
+        (
+            [id] => 7618d58c-d59c-637b-49a2-e4fc199d8d1f
+            [name] => Brother HL-L5100DN BR-Script3
+            [displayName] => Brother HL-L5100DN BR-Script3
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [14] => Array
+        (
+            [id] => 353fdee6-a8de-dc7f-1b76-c6456e970dcf
+            [name] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [displayName] => Brother HL-L5100DN BR-Script3 (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [15] => Array
+        (
+            [id] => 3e3d6c35-2c17-4d92-c1d6-dd21e6b5f997
+            [name] => Brother HL-L5100DN series
+            [displayName] => Brother HL-L5100DN series
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [16] => Array
+        (
+            [id] => c52f94a9-93de-9809-8872-c5460ad2d7e8
+            [name] => Brother HL-L5100DN series (Copy 1)
+            [displayName] => Brother HL-L5100DN series (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [17] => Array
+        (
+            [id] => 9da8cd38-4222-641d-5596-096f541c22d4
+            [name] => DPD Labels (GK420d)
+            [displayName] => DPD Labels (GK420d)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [18] => Array
+        (
+            [id] => 02347a13-c355-f2b5-6ea8-fd3107aff875
+            [name] => Intelligenter Drucker
+            [displayName] => Intelligenter Drucker
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [19] => Array
+        (
+            [id] => b118dc2e-6878-37bb-5d1b-27bc1089b437
+            [name] => Microsoft Print to PDF
+            [displayName] => Microsoft Print to PDF
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [20] => Array
+        (
+            [id] => 0ce19992-c57f-4ea2-5beb-e2aaf9d24b22
+            [name] => Microsoft XPS Document Writer
+            [displayName] => Microsoft XPS Document Writer
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [21] => Array
+        (
+            [id] => f7f408fa-12e8-b022-a18e-6e35025f63ab
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [22] => Array
+        (
+            [id] => 6a2877f9-57a4-185a-7ad0-3366e4f0103c
+            [name] => ZDesigner GK420d
+            [displayName] => ZDesigner GK420d
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+    [23] => Array
+        (
+            [id] => c8c1772f-53de-c0c2-1e14-aa0000f175f7
+            [name] => ZDesigner GK420d (Copy 1)
+            [displayName] => ZDesigner GK420d (Copy 1)
+            [ownerName] => boostinternet-cloud-print test
+            [connectionStatus] => ONLINE
+        )
+
+)
+ 
+[ 2017-07-10 13:33:01 ]:Used Printers Packtisch 2 Tray 1 
+[ 2017-07-10 13:33:01 ]:Not Defined No printer Found 
+[ 2017-07-10 13:33:04 ]:Document has been sent to [DPD Labels (GK420d)] printer and should print shortly.print_klausnerring/Spedition-Etikett-40957-104.pdf 
+[ 2017-07-10 13:33:08 ]:Document has been sent to [Brother HL-2130 series (Normalpapier)] printer and should print shortly.print_klausnerring/Spedition-Verladeliste-40957-104.pdf 
+[ 2017-07-10 13:33:12 ]:Document has been sent to [Brother HL-3142CW series] printer and should print shortly.print_klausnerring/certificate-dbfc759302fb10d6efbbe70c0a8df75d.pdf 
+[ 2017-07-10 13:33:15 ]:Document has been sent to [Brother HL-2130 series] printer and should print shortly.print_klausnerring/invoice-a10695606078d50100d82e0733cc9e4b.pdf 
