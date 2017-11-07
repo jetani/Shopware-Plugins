@@ -1,0 +1,2 @@
+# Shopware-Plugins
+Shopware Plugins
